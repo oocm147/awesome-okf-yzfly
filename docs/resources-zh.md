@@ -67,6 +67,8 @@ author: 云中江树(整理)
 
 > OKF 于 2026-06-12 发布,以下为社区陆续涌现的工具,不少仍处早期,择优收录、持续补充。
 
+- [JidoSeal](https://github.com/Jidoseal/jidoseal-mcp) —— 免费的本地 OKF 检查器（MCP）。可选付费证书。MCP 服务是 Apache-2.0；扫描引擎不是开源。与 OKF 规范或 Google 无隶属。
+
 - [hdean-ssp/okf-tools](https://github.com/hdean-ssp/okf-tools) —— 查询/导航/创作 OKF bundle 的 CLI 与 Python 库。
 - [chapter42/okf-convert](https://github.com/chapter42/okf-convert) —— 把 Markdown / 网页转换为 OKF v0.1 bundle。
 - [0dust/OKFy](https://github.com/0dust/OKFy) —— 把文档转换成 agent 可读的 OKF 知识 bundle。
